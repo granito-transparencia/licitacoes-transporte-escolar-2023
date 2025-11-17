@@ -1,6 +1,6 @@
 🚌 Licitações de Transporte Escolar – Município de Granito (PE)
 
-Página desenvolvida para a Secretaria Municipal de Educação de Granito – PE, destinada à publicação das licitações de transporte escolar referentes ao exercício de 2022.
+Página desenvolvida para a Secretaria Municipal de Educação de Granito – PE, destinada à publicação das licitações de transporte escolar referentes ao exercício de 2023.
 O objetivo é garantir transparência e facilitar o acesso público às informações sobre os processos licitatórios, modalidades, valores e documentos oficiais.
 
 📄 Sobre o projeto
